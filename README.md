@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndyPolRus
+- 👋 Hi, I’m @AndyPolDev
 - 👀 I’m interested in running, training, dancing, snowboarding, traveling and iOSdeveloping
 - 🌱 I’m currently learning Swift
 
